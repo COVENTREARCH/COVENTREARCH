@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @COVENTREARCH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @halo @h124jscss@gmail.com
+- 👀 I’m interested in Developing the arch of the covenant 
+- 🌱 I’m currently learning project management 
+- 💞️ I’m looking to collaborate on all i love development
+- need friends reaching out
+- 📫 email @h124jscss@gmail.com
 
-<!---
-COVENTREARCH/COVENTREARCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!----
